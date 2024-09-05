@@ -1,2 +1,3 @@
-# MOrpho-Kinematic-Analysis-MOKA-of-intermediate-mass-galaxies-
-The next repository contains a summary of the most relevant data analysis performed for my PhD project.  
+# MOrpho-Kinematic-Analysis-(MOKA)-of-intermediate-mass-galaxies-
+The next repository presents the most relevant results and data analysis performed during my PhD project. 
+
